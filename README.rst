@@ -1,3 +1,10 @@
+1.主要参考simple_cpu下的实现
+2.参考 http://read.pudn.com/downloads102/ebook/417458/%E5%88%9D%E5%AD%A6cpu%E8%AE%BE%E8%AE%A1%EF%BC%88%E5%AE%8C%E5%85%A8%E6%95%99%E7%A8%8B%EF%BC%89/complexcpu_design.doc
+
+
+
+
+=========================
 ps.py:pipeline simulation
 =========================
 
